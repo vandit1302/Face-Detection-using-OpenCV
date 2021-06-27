@@ -23,7 +23,8 @@ To use this application,follow the steps:
 ```
 1. Select the image to be uploaded.
 2. Click on Detect Faces.
-3. A pop up window appears with borders around the faces in the image. Click enter and the summary of faces is diaplayed.
+3. A pop up window appears with borders around the faces in the image. 
+   Click enter and the summary of faces is diaplayed.
 ```
 <br>
 
